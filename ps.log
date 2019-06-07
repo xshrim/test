@@ -1,0 +1,238 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 189716 10464 ?        Ss   08:25   0:01 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    08:25   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   08:25   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   08:25   0:00 [rcu_par_gp]
+root         6  0.0  0.0      0     0 ?        I<   08:25   0:00 [kworker/0:0H-kblockd]
+root         9  0.0  0.0      0     0 ?        I<   08:25   0:00 [mm_percpu_wq]
+root        10  0.0  0.0      0     0 ?        S    08:25   0:01 [ksoftirqd/0]
+root        11  0.0  0.0      0     0 ?        I    08:25   0:05 [rcu_preempt]
+root        12  0.0  0.0      0     0 ?        S    08:25   0:00 [rcuc/0]
+root        13  0.0  0.0      0     0 ?        S    08:25   0:00 [rcub/0]
+root        14  0.0  0.0      0     0 ?        S    08:25   0:00 [migration/0]
+root        15  0.0  0.0      0     0 ?        S    08:25   0:00 [idle_inject/0]
+root        16  0.0  0.0      0     0 ?        S    08:25   0:00 [cpuhp/0]
+root        17  0.0  0.0      0     0 ?        S    08:25   0:00 [cpuhp/1]
+root        18  0.0  0.0      0     0 ?        S    08:25   0:00 [idle_inject/1]
+root        19  0.0  0.0      0     0 ?        S    08:25   0:00 [migration/1]
+root        20  0.0  0.0      0     0 ?        S    08:25   0:00 [rcuc/1]
+root        21  0.0  0.0      0     0 ?        S    08:25   0:00 [ksoftirqd/1]
+root        23  0.0  0.0      0     0 ?        I<   08:25   0:00 [kworker/1:0H-kblockd]
+root        24  0.0  0.0      0     0 ?        S    08:25   0:00 [cpuhp/2]
+root        25  0.0  0.0      0     0 ?        S    08:25   0:00 [idle_inject/2]
+root        26  0.0  0.0      0     0 ?        S    08:25   0:00 [migration/2]
+root        27  0.0  0.0      0     0 ?        S    08:25   0:00 [rcuc/2]
+root        28  0.0  0.0      0     0 ?        S    08:25   0:00 [ksoftirqd/2]
+root        30  0.0  0.0      0     0 ?        I<   08:25   0:00 [kworker/2:0H-kblockd]
+root        31  0.0  0.0      0     0 ?        S    08:25   0:00 [cpuhp/3]
+root        32  0.0  0.0      0     0 ?        S    08:25   0:00 [idle_inject/3]
+root        33  0.0  0.0      0     0 ?        S    08:25   0:00 [migration/3]
+root        34  0.0  0.0      0     0 ?        S    08:25   0:01 [rcuc/3]
+root        35  0.0  0.0      0     0 ?        S    08:25   0:01 [ksoftirqd/3]
+root        37  0.0  0.0      0     0 ?        I<   08:25   0:00 [kworker/3:0H-kblockd]
+root        38  0.0  0.0      0     0 ?        S    08:25   0:00 [kdevtmpfs]
+root        39  0.0  0.0      0     0 ?        I<   08:25   0:00 [netns]
+root        40  0.0  0.0      0     0 ?        S    08:25   0:00 [rcu_tasks_kthre]
+root        41  0.0  0.0      0     0 ?        S    08:25   0:00 [kauditd]
+root        44  0.0  0.0      0     0 ?        S    08:25   0:00 [khungtaskd]
+root        45  0.0  0.0      0     0 ?        S    08:25   0:00 [oom_reaper]
+root        46  0.0  0.0      0     0 ?        I<   08:25   0:00 [writeback]
+root        47  0.0  0.0      0     0 ?        S    08:25   0:00 [kcompactd0]
+root        48  0.0  0.0      0     0 ?        SN   08:25   0:00 [ksmd]
+root        49  0.0  0.0      0     0 ?        SN   08:25   0:00 [khugepaged]
+root        50  0.0  0.0      0     0 ?        I<   08:25   0:00 [crypto]
+root        51  0.0  0.0      0     0 ?        I<   08:25   0:00 [kintegrityd]
+root        52  0.0  0.0      0     0 ?        I<   08:25   0:00 [kblockd]
+root        54  0.0  0.0      0     0 ?        I<   08:25   0:00 [edac-poller]
+root        57  0.0  0.0      0     0 ?        I<   08:25   0:00 [devfreq_wq]
+root        58  0.0  0.0      0     0 ?        S    08:25   0:00 [watchdogd]
+root        59  0.0  0.0      0     0 ?        S    08:25   0:00 [kswapd0]
+root        60  0.0  0.0      0     0 ?        I<   08:25   0:00 [kworker/u17:0-hci0]
+root       149  0.0  0.0      0     0 ?        I<   08:25   0:00 [kthrotld]
+root       150  0.0  0.0      0     0 ?        I<   08:25   0:00 [acpi_thermal_pm]
+root       151  0.0  0.0      0     0 ?        I<   08:25   0:00 [nvme-wq]
+root       152  0.0  0.0      0     0 ?        I<   08:25   0:00 [nvme-reset-wq]
+root       153  0.0  0.0      0     0 ?        I<   08:25   0:00 [nvme-delete-wq]
+root       154  0.0  0.0      0     0 ?        I<   08:25   0:00 [ipv6_addrconf]
+root       165  0.0  0.0      0     0 ?        I<   08:25   0:00 [kstrp]
+root       181  0.0  0.0      0     0 ?        I<   08:25   0:00 [charger_manager]
+root       210  0.0  0.0      0     0 ?        I<   08:25   0:00 [ata_sff]
+root       213  0.0  0.0      0     0 ?        S    08:25   0:00 [scsi_eh_0]
+root       214  0.0  0.0      0     0 ?        I<   08:25   0:00 [scsi_tmf_0]
+root       215  0.0  0.0      0     0 ?        S    08:25   0:00 [scsi_eh_1]
+root       216  0.0  0.0      0     0 ?        I<   08:25   0:00 [scsi_tmf_1]
+root       217  0.0  0.0      0     0 ?        S    08:25   0:00 [scsi_eh_2]
+root       218  0.0  0.0      0     0 ?        I<   08:25   0:00 [scsi_tmf_2]
+root       219  0.0  0.0      0     0 ?        S    08:25   0:00 [scsi_eh_3]
+root       220  0.0  0.0      0     0 ?        I<   08:25   0:00 [scsi_tmf_3]
+root       230  0.0  0.0      0     0 ?        I<   08:25   0:01 [kworker/1:1H-events_highpri]
+root       231  0.0  0.0      0     0 ?        I<   08:25   0:00 [kworker/3:1H-events_highpri]
+root       237  0.0  0.0      0     0 ?        I<   08:25   0:00 [kworker/2:1H-events_highpri]
+root       244  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfsalloc]
+root       245  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfs_mru_cache]
+root       246  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfs-buf/sdb7]
+root       247  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfs-data/sdb7]
+root       248  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfs-conv/sdb7]
+root       249  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfs-cil/sdb7]
+root       250  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfs-reclaim/sdb]
+root       251  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfs-log/sdb7]
+root       252  0.0  0.0      0     0 ?        I<   08:25   0:00 [xfs-eofblocks/s]
+root       253  0.0  0.0      0     0 ?        S    08:25   0:01 [xfsaild/sdb7]
+root       275  0.0  0.2 109824 39956 ?        Ss   08:25   0:01 /usr/lib/systemd/systemd-journald
+root       286  0.0  0.0      0     0 ?        I<   08:25   0:00 [iprt-VBoxWQueue]
+root       287  0.0  0.0  78028  1368 ?        Ss   08:25   0:00 /usr/bin/lvmetad -f
+root       291  0.0  0.0      0     0 ?        S    08:25   0:00 [iprt-VBoxTscThr]
+root       293  0.0  0.0  41336  8000 ?        Ss   08:25   0:00 /usr/lib/systemd/systemd-udevd
+root       297  0.0  0.0      0     0 ?        I<   08:25   0:01 [kworker/0:1H-events_highpri]
+root       353  0.0  0.0      0     0 ?        I<   08:25   0:00 [kmemstick]
+root       354  0.0  0.0      0     0 ?        I<   08:25   0:00 [tpm_dev_wq]
+root       355  0.0  0.0      0     0 ?        S    08:25   0:00 [irq/46-mei_me]
+root       405  0.0  0.0      0     0 ?        I<   08:25   0:00 [cfg80211]
+root       452  0.0  0.0   9584   480 ?        Ss   08:25   0:00 /usr/bin/mount.ntfs /dev/sdb4 /mnt/wsys -o rw,uid=1000,gid=1000,umask=002,iocharset=utf8,nls=utf8
+root       459  0.0  0.0      0     0 ?        S    08:25   0:00 [jbd2/sdb5-8]
+root       461  0.0  0.0      0     0 ?        I<   08:25   0:00 [ext4-rsv-conver]
+root       483  0.0  0.0      0     0 ?        S    08:25   0:00 [wl_event_handle]
+root       493  0.0  0.0   9724  2164 ?        Ss   08:25   0:10 /usr/bin/mount.ntfs /dev/sda2 /mnt/data -o rw,uid=1000,gid=1000,umask=002,iocharset=utf8,nls=utf8
+systemd+   506  0.0  0.0 101932  6996 ?        Ssl  08:25   0:00 /usr/lib/systemd/systemd-timesyncd
+root       588  0.0  0.0      0     0 ?        I<   08:25   0:00 [kworker/u17:2-hci0]
+root       656  0.0  0.0 318240  9956 ?        Ssl  08:25   0:00 /usr/bin/ModemManager
+root       657  0.0  0.0  11496  2532 ?        Ss   08:25   0:00 /usr/bin/crond -n
+avahi      658  0.0  0.0  10624  3500 ?        Ss   08:25   0:00 avahi-daemon: running [acer.local]
+root       659  0.0  0.0  27716  7604 ?        Ss   08:25   0:00 /usr/lib/systemd/systemd-logind
+root       660  0.0  0.0  12260  5404 ?        Ss   08:25   0:00 /usr/lib/bluetooth/bluetoothd
+root       661  0.0  0.0  13104  4660 ?        Ss   08:25   0:00 /usr/bin/bumblebeed --use-syslog
+dbus       662  0.0  0.0  11936  5280 ?        Ss   08:25   0:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       664  0.0  0.1 695012 20096 ?        Ssl  08:25   0:06 /usr/bin/NetworkManager --no-daemon
+avahi      674  0.0  0.0  10492   344 ?        S    08:25   0:00 avahi-daemon: chroot helper
+polkitd    682  0.0  0.1 1980220 22128 ?       Ssl  08:25   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root       708  0.0  0.0  17160  7280 ?        Ss   08:25   0:00 /usr/bin/wpa_supplicant -u
+root       709  0.0  0.0 142992 14768 ?        Ssl  08:25   0:00 /usr/bin/sddm
+root       716  0.3  0.4 1225604 80120 ?       Ssl  08:25   1:16 /usr/bin/dockerd -H fd://
+root       717  0.0  0.0  59760 14756 ?        Ss   08:25   0:00 /usr/bin/nmbd --foreground --no-process-group
+root       733  1.5  0.3 210256 64524 tty1     Ssl+ 08:26   6:24 /usr/lib/Xorg -nolisten tcp -auth /var/run/sddm/{39a43104-9d7a-4e29-a2eb-a8a709cab1f0} -background none -noreset -displayfd 17 -seat seat0 vt1
+root       734  0.5  0.2 1185800 44632 ?       Ssl  08:26   2:25 containerd --config /var/run/docker/containerd/containerd.toml --log-level info
+root       882  0.0  0.0 111776 15912 ?        S    08:26   0:00 /usr/lib/sddm/sddm-helper --socket /tmp/sddm-auth5b53f5e9-46c4-4f60-a938-f4a6ce62c8a1 --id 1 --start /usr/bin/startkde --user xshrim --autologin
+xshrim     887  0.0  0.0  33496  9016 ?        Ss   08:26   0:00 /usr/lib/systemd/systemd --user
+xshrim     888  0.0  0.0 231060  2732 ?        S    08:26   0:00 (sd-pam)
+xshrim     904  0.0  0.0  10176  3388 ?        S    08:26   0:00 /bin/sh /usr/bin/startkde
+xshrim     913  0.0  0.0  11260  4692 ?        Ss   08:26   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+xshrim     940  0.0  0.0   2204    92 ?        S    08:26   0:00 /usr/lib/kf5/start_kdeinit --kded +kcminit_startup
+xshrim     942  0.0  0.1 110788 19976 ?        Ss   08:26   0:00 kdeinit5: Running...
+xshrim     943  0.0  0.2 299844 40536 ?        Sl   08:26   0:00 /usr/lib/kf5/klauncher --fd=9
+xshrim     946  0.0  0.3 875920 57872 ?        Sl   08:26   0:04 kded5 [kdeinit5]
+xshrim     953  0.0  0.2 310624 41096 ?        Sl   08:26   0:01 /usr/bin/kaccess
+xshrim     966  0.0  0.2 298812 38272 ?        Sl   08:26   0:01 /usr/bin/kglobalaccel5
+xshrim     971  0.0  0.0  51340  7052 ?        S    08:26   0:00 kwrapper5 /usr/bin/ksmserver
+xshrim     973  0.0  0.0 157020  5340 ?        Sl   08:26   0:00 /usr/lib/dconf-service
+xshrim     977  0.0  0.2 390936 47768 ?        Sl   08:26   0:01 /usr/bin/ksmserver
+xshrim     982  0.0  0.1 236212 19044 ?        Sl   08:26   0:00 /usr/lib/kf5/kscreen_backend_launcher
+xshrim     985  2.0  0.6 2950888 99648 ?       Sl   08:26   8:27 /usr/bin/kwin_x11 -session 1061636572000155940922600000009730013_1559841258_835383
+root       987  0.0  0.0 264108  9936 ?        Ssl  08:26   0:01 /usr/lib/upowerd
+xshrim     989  0.0  0.1 268670908 30212 ?     SNl  08:26   0:01 /usr/bin/baloo_file
+xshrim     991  0.0  0.4 529952 73500 ?        Sl   08:26   0:01 /usr/bin/krunner
+xshrim     995  0.7  1.6 2377120 264904 ?      Sl   08:26   3:02 /usr/bin/plasmashell
+root      1003  0.0  0.0 407548 12976 ?        Ssl  08:26   0:04 /usr/lib/udisks2/udisksd
+xshrim    1004  0.0  0.2 450284 42356 ?        Sl   08:26   0:00 /usr/lib/polkit-kde-authentication-agent-1
+xshrim    1008  0.0  0.1 242836 21628 ?        Sl   08:26   0:00 /usr/bin/xembedsniproxy
+xshrim    1011  0.0  0.1 243944 22744 ?        Sl   08:26   0:00 /usr/bin/gmenudbusmenuproxy
+xshrim    1016  0.0  0.2 389176 48636 ?        Sl   08:26   0:02 /usr/lib/kdeconnectd
+xshrim    1035  0.2  0.0 1108104 13640 ?       S<sl 08:26   0:59 /usr/bin/pulseaudio --daemonize=no
+rtkit     1048  0.0  0.0 154680  2740 ?        SNsl 08:26   0:00 /usr/lib/rtkit-daemon
+xshrim    1088  0.0  0.2 561872 34732 ?        Sl   08:26   0:00 /usr/lib/kactivitymanagerd
+xshrim    1093  0.0  0.2 314132 47092 ?        Sl   08:26   0:06 /usr/bin/msm_kde_notifier -session 1061636572000155940922600000009730009_1559841256_228941
+xshrim    1099  0.0  0.0 247592  6916 ?        Sl   08:26   0:00 /usr/lib/pulse/gsettings-helper
+root      1111  0.0  0.0      0     0 ?        S<   08:26   0:00 [krfcommd]
+xshrim    1114  0.0  0.5 470560 82428 ?        Sl   08:26   0:04 /usr/bin/yakuake -session 1061636572000155940922600000009730011_1559841256_229147
+xshrim    1121  0.0  0.3 335664 49364 ?        Sl   08:26   0:01 /usr/bin/octopi-notifier -session 1061636572000155940922600000009730012_1559841256_229147
+root      1123  0.0  0.1  78364 22400 ?        Ss   08:26   0:00 /usr/bin/smbd --foreground --no-process-group
+root      1130  0.0  0.0  75872  5192 ?        S    08:26   0:00 /usr/bin/smbd --foreground --no-process-group
+root      1131  0.0  0.0  75864  4524 ?        S    08:26   0:00 /usr/bin/smbd --foreground --no-process-group
+xshrim    1133  0.2  1.0 1256684 166760 ?      Sl   08:26   0:53 /usr/bin/latte-dock -session 1061636572000155945915200000009750012_1559841256_229456
+root      1135  0.0  0.0  78372  6220 ?        S    08:26   0:00 /usr/bin/smbd --foreground --no-process-group
+root      1137  0.0  0.0  57468  8924 ?        Ss   08:26   0:00 /usr/bin/cupsd -l
+xshrim    1254  0.0  0.0  14088  6732 pts/0    Ss+  08:26   0:00 /bin/zsh
+xshrim    1293  0.2  0.0   4036  2308 ?        S    08:26   1:05 /usr/bin/ksysguardd
+xshrim    1295  0.0  0.2 299240 39108 ?        Sl   08:26   0:00 /usr/bin/kuiserver5
+xshrim    1303  0.0  0.3 315452 49100 ?        Sl   08:26   0:00 /usr/bin/flameshot
+xshrim    1310  0.0  0.0 238260  4804 ?        Sl   08:26   0:00 /usr/lib/geoclue-2.0/demos/agent
+xshrim    1324  0.0  0.2 424452 40568 ?        Sl   08:26   0:01 /usr/lib/org_kde_powerdevil
+xshrim    1348  0.0  0.0  44892  6684 ?        Ss   08:26   0:00 /usr/lib/bluetooth/obexd
+xshrim    1375  0.0  0.2 889996 48648 ?        Sl   08:26   0:02 fcitx
+xshrim    1380  0.0  0.0  11200  3824 ?        Ss   08:26   0:01 /usr/bin/dbus-daemon --syslog --fork --print-pid 4 --print-address 6 --config-file /usr/share/fcitx/dbus/daemon.conf
+xshrim    1384  0.0  0.0   7144   212 ?        SN   08:26   0:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-PAUGEb9Hqa,guid=2f93cf017f2640cadd03a2885cf9af2c 1380
+xshrim    1412  0.0  0.1 111400 16968 ?        S    08:27   0:00 file.so [kdeinit5] file local:/run/user/1000/klauncherStBwyz.1.slave-socket local:/run/user/1000/kded5eWxBcE.1.slave-socket
+root      1601  0.0  0.0      0     0 ?        I    10:26   0:00 [kworker/2:1-mm_percpu_wq]
+xshrim    1715  4.3  1.7 837756 291632 ?       Sl   11:50   9:24 /opt/google/chrome/chrome
+xshrim    1721  0.0  0.0   8484   748 ?        S    11:50   0:00 cat
+xshrim    1722  0.0  0.0   8484   752 ?        S    11:50   0:00 cat
+xshrim    1724  0.0  0.0   2752   808 ?        S    11:50   0:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/chrome --type=zygote
+xshrim    1725  0.0  0.2 251364 47360 ?        S    11:50   0:00 /opt/google/chrome/chrome --type=zygote
+xshrim    1727  0.0  0.0   2752   804 ?        S    11:50   0:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/nacl_helper
+xshrim    1728  0.0  0.0  10044  4200 ?        S    11:50   0:00 /opt/google/chrome/nacl_helper
+xshrim    1730  0.0  0.0 251364 13096 ?        S    11:50   0:00 /opt/google/chrome/chrome --type=zygote
+xshrim    1740  0.0  0.0 241332  7544 ?        Ssl  11:50   0:00 /usr/lib/gvfsd
+xshrim    1745  0.0  0.0 379228  6016 ?        Sl   11:50   0:00 /usr/lib/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+xshrim    1764  6.2  0.8 409736 136836 ?       Sl   11:50  13:36 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=7128442234147553086,9920918837570573579,131072 --gpu-preferences=KAAAAAAAAAAgAAAgAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=13836325490251452705
+xshrim    1769  1.1  0.6 447564 100072 ?       Sl   11:50   2:28 /opt/google/chrome/chrome --type=utility --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --service-sandbox-type=network --service-request-channel-token=779157176405017351 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    1909  0.0  0.6 571388 101480 ?       Sl   11:50   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12518857779636253287 --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    1947  0.0  0.2 445928 42552 ?        Sl   11:50   0:11 /opt/google/chrome/chrome --type=utility --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --service-sandbox-type=utility --service-request-channel-token=13590767493604209229 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    1958  0.0  0.5 540060 94488 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=11213024794954988122 --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    1972  0.0  0.5 526420 88340 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=8133409815428282494 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    1978  0.0  0.5 553132 95364 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6306798561399275136 --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    1996  0.0  0.6 541660 101232 ?       Sl   11:50   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=5809436402492448770 --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2008  0.0  0.5 523604 85984 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=13380746492393450437 --renderer-client-id=9 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2014  0.0  0.5 539804 95272 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=11481015896420645009 --renderer-client-id=10 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2028  0.0  0.5 538528 92948 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16569137795011537585 --renderer-client-id=11 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2044  0.0  0.5 528728 90420 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=13883784707394831781 --renderer-client-id=12 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2050  0.1  0.7 605048 128600 ?       Sl   11:50   0:15 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16307050550730610097 --renderer-client-id=13 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2053  0.0  0.6 703036 110948 ?       Sl   11:50   0:11 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=11312280910271394259 --renderer-client-id=14 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2068  0.0  0.5 544544 96076 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=13986749089218185062 --renderer-client-id=15 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2074  0.2  0.5 538200 97744 ?        Sl   11:50   0:26 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=5116905906474286217 --renderer-client-id=16 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2086  0.0  0.5 523604 85408 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=10369168667584712405 --renderer-client-id=17 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2098  0.0  0.6 550560 103400 ?       Sl   11:50   0:02 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=14242107783267767761 --renderer-client-id=18 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2110  0.0  0.5 523860 87104 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=1188915384351210287 --renderer-client-id=19 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2125  0.0  0.5 527956 87368 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=3340654059541617171 --renderer-client-id=20 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2134  0.0  0.6 562796 110616 ?       Sl   11:50   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=14028368895281329456 --renderer-client-id=21 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2137  0.0  0.5 541000 95908 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=14448722126140741331 --renderer-client-id=22 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2143  0.0  0.5 523604 86512 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=5808555815813902958 --renderer-client-id=23 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2152  0.0  0.5 539656 96072 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=17692223517798411085 --renderer-client-id=24 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2164  0.0  0.5 538524 95632 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=7923065254262163541 --renderer-client-id=25 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2167  0.0  0.5 531672 92872 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=15001578265652501995 --renderer-client-id=26 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2176  0.0  0.5 523604 86228 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2663799535501527006 --renderer-client-id=27 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2182  0.0  0.5 523604 86784 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=17636066559690402362 --renderer-client-id=28 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2185  0.8  0.7 571764 115772 ?       Sl   11:50   1:51 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16398309675205865950 --renderer-client-id=29 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2196  0.3  0.9 12304192 147816 ?     Sl   11:50   0:45 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=982417534644992166 --renderer-client-id=30 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2203  0.0  0.4 522836 81420 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6274684765954474251 --renderer-client-id=31 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2212  0.0  0.5 547876 93820 ?        Sl   11:50   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2908702505719178726 --renderer-client-id=32 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2218  0.2  0.8 602892 132316 ?       Sl   11:50   0:30 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=15197914742695725898 --renderer-client-id=33 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2224  0.0  0.6 554588 102916 ?       Sl   11:50   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2263155338899580906 --renderer-client-id=34 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2390  4.2  3.6 1071568 591096 ?      Sl   11:51   9:14 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16284540622676920421 --renderer-client-id=41 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2583  0.0  0.3 265248 50788 ?        Sl   12:02   0:00 /opt/google/chrome/chrome --type=ppapi-broker --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --service-request-channel-token=17590495497023289690
+xshrim    2703  1.7  2.0 899904 334320 ?       Sl   12:03   3:39 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=15413730178061412405 --renderer-client-id=57 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2962  0.1  1.4 682536 235956 ?       Sl   12:13   0:15 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=497729393176009525 --renderer-client-id=66 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    2977  0.3  1.4 709836 235880 ?       Sl   12:13   0:46 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=553871665504354640 --renderer-client-id=67 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    3024  0.1  1.1 653592 193284 ?       Sl   12:14   0:13 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=17581721062975246120 --renderer-client-id=70 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    3051  0.1  1.2 684380 207600 ?       Sl   12:14   0:16 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=615319051262496973 --renderer-client-id=72 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    3060  1.0  1.3 693524 222840 ?       Sl   12:14   1:59 /opt/google/chrome/chrome --type=renderer --field-trial-handle=7128442234147553086,9920918837570573579,131072 --lang=zh-CN --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2476853258222299379 --renderer-client-id=73 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+xshrim    3172  0.0  0.5 539060 89224 ?        Sl   12:16   0:02 /usr/bin/dolphin
+xshrim    3184  0.0  0.1 111484 17612 ?        S    12:16   0:00 file.so [kdeinit5] file local:/run/user/1000/klauncherStBwyz.1.slave-socket local:/run/user/1000/dolphinxyJYvU.5.slave-socket
+xshrim    3236  0.0  1.1 662696 184340 ?       Sl   12:16   0:08 /usr/bin/okular /home/xshrim/git/book/系统/Linux/progit_v2.1.8.pdf
+xshrim    3271  0.0  0.5 473224 90156 ?        Sl   12:18   0:11 /usr/bin/konsole
+root      3821  0.0  0.0      0     0 ?        I    12:22   0:00 [kworker/1:2-mm_percpu_wq]
+root      3822  0.0  0.0      0     0 ?        I    12:22   0:00 [kworker/1:3-events]
+root      4340  0.0  0.0      0     0 ?        I    12:26   0:00 [kworker/2:0]
+xshrim    4669  0.0  0.0  15028  7748 pts/3    Ss   12:28   0:01 /bin/zsh
+root      7047  0.0  0.0      0     0 ?        I    13:43   0:00 [kworker/3:2-mm_percpu_wq]
+root      7437  0.0  0.0      0     0 ?        I    14:26   0:00 [kworker/3:0-events]
+root      7720  0.0  0.0      0     0 ?        I    15:01   0:00 [kworker/u16:2-events_power_efficient]
+root      7808  0.0  0.0      0     0 ?        I    15:12   0:00 [kworker/0:1-xfs-cil/sdb7]
+root      7848  0.0  0.0      0     0 ?        I    15:17   0:00 [kworker/0:2-xfs-cil/sdb7]
+root      7851  0.0  0.0      0     0 ?        I    15:18   0:00 [kworker/u16:0-events_unbound]
+root      7883  0.0  0.0      0     0 ?        I    15:22   0:00 [kworker/0:0-events]
+root      7893  0.0  0.0      0     0 ?        I    15:23   0:00 [kworker/u16:1-events_unbound]
+xshrim    7918  3.9  0.1 346356 24624 ?        Sl   15:26   0:03 http.so [kdeinit5] https local:/run/user/1000/klauncherStBwyz.1.slave-socket local:/run/user/1000/plasmashellcMFgUL.18.slave-socket
+root      7923  0.0  0.0      0     0 ?        I    15:26   0:00 [kworker/3:1-xfs-conv/sdb7]
+xshrim    7956  0.0  0.0  15920  3324 pts/3    R+   15:27   0:00 ps aux
+avfetch.py*
+aview.py*
+ps.log
