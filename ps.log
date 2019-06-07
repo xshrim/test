@@ -1,0 +1,6 @@
+  PID TTY          TIME CMD
+ 4669 pts/3    00:00:05 zsh
+ 9242 pts/3    00:00:00 ps
+avfetch.py*
+aview.py*
+ps.log
